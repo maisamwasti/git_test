@@ -30,4 +30,16 @@ SMOOTh - Youtube video is Git & github crash course for beginners by Traversy Me
 Create a repository, with the name
 git remote add origin https://github.com/maisamwasti/git_test.git
 
+#### To another repository
+git clone https://github.com/maisamwasti/Rainbow-Poem.git 
+vi Poem-India
+git add Poem-India
+git commit -m "Changed Poem-India"
+git push -u origin master
 
+#### create another branch there
+git branch cats
+git checkout cats
+vi cats.txt
+git commit -m "adding new branch called cats and adding cats.txt there"
+git push -u origin cats
