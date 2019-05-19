@@ -17,4 +17,12 @@ so actually the files change! the directory changes in the GUI as well
 
 VERY INTERESTING IDEA
 
+## GIT MERGE
+
+then later on you could always got to the master and do 
+git merge mw167d
+what it will do is get everything from mw167d! and then there wont be any difference!
+
+SMOOTh - Youtube video is Git & github crash course for beginners by Traversy Media
+
 
