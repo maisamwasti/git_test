@@ -1,3 +1,6 @@
+https://www.youtube.com/watch?v=SWYqp7iY_Tc
+
+
 ## GIT ignore:
 
 .gitignore is a file that enlists the files and directories, that will not be managed by GIT
