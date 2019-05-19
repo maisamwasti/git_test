@@ -26,3 +26,8 @@ what it will do is get everything from mw167d! and then there wont be any differ
 SMOOTh - Youtube video is Git & github crash course for beginners by Traversy Media
 
 
+## FOR GITHUB
+Create a repository, with the name
+git remote add origin https://github.com/maisamwasti/git_test.git
+
+
