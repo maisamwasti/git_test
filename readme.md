@@ -29,6 +29,7 @@ SMOOTh - Youtube video is Git & github crash course for beginners by Traversy Me
 ## FOR GITHUB
 Create a repository, with the name
 git remote add origin https://github.com/maisamwasti/git_test.git
+git push
 
 #### To another repository
 git clone https://github.com/maisamwasti/Rainbow-Poem.git 
